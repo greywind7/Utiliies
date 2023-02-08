@@ -22,4 +22,6 @@ Syntax
 [link-name]: link-address
 Advantage is that if a link appears multiple times it can be edited just once!\
 [google boi][gref]
+References must be added at the end of the document
+
 [gref]: www.google.com
