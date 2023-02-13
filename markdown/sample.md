@@ -30,5 +30,11 @@ Images are same as links starting with ! \
 ![Alt text][tag] \
 Alternatively \<img\> tag can be used as well \
 
+## Block text
+Use \> to add text in a block quote \
+> Erat suscipit arcu, in varius erat risus vel magna. Fusce nec. \
+All the usual edits can be made in blocks as well
+
+
 [gref]: www.google.com
 [tag]: https://source.unsplash.com/jrLG6oo2TFU/160x200
