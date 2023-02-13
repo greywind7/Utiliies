@@ -31,4 +31,4 @@ Images are same as links starting with ! \
 Alternatively \<img\> tag can be used as well \
 
 [gref]: www.google.com
-[tag]: https://source.unsplash.com/jrLG6oo2TFU/400x320
+[tag]: https://source.unsplash.com/jrLG6oo2TFU/200x160
