@@ -33,7 +33,8 @@ Alternatively \<img\> tag can be used as well
 ## Block text
 Use \> to add text in a block quote \
 > Erat suscipit arcu, in varius erat risus vel magna. Fusce nec. 
-Block and headings automatically end the sentence \
+
+Block quote needs blank line to end, but if you need blank line in quote you need to use \> \
 All the usual edits can be made in blocks as well
 
 
