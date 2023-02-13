@@ -28,11 +28,12 @@ References must be added at the end of the document
 Images are same as links starting with ! \
 ![Alt text](https://source.unsplash.com/SeR0vJLUumU/300x200)
 ![Alt text][tag] \
-Alternatively \<img\> tag can be used as well \
+Alternatively \<img\> tag can be used as well
 
 ## Block text
 Use \> to add text in a block quote \
-> Erat suscipit arcu, in varius erat risus vel magna. Fusce nec. \
+> Erat suscipit arcu, in varius erat risus vel magna. Fusce nec. 
+Block and headings automatically end the sentence \
 All the usual edits can be made in blocks as well
 
 
