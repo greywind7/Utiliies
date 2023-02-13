@@ -24,4 +24,11 @@ Advantage is that if a link appears multiple times it can be edited just once!\
 [google boi][gref]
 References must be added at the end of the document
 
+## Images
+Images are same as links starting with ! \
+![Alt text](https://source.unsplash.com/SeR0vJLUumU/300x200)
+![Alt text][tag] \
+Alternatively \<img\> tag can be used as well \
+
 [gref]: www.google.com
+[tag]: https://source.unsplash.com/jrLG6oo2TFU/400x320
